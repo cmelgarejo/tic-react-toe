@@ -1,0 +1,27 @@
+{
+  "name": "assignments",
+  "version": "1.0.8",
+  "description": "Week 16 xMIT-PRO assignment - Tic React Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testMatch": [
+      "<rootDir>/**/**"
+    ]
+  },
+  "keywords": [
+    "tic",
+    "tac",
+    "toe",
+    "react"
+  ],
+  "author": "cmelgarejo",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
